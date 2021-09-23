@@ -1,0 +1,15 @@
+Game design
+
+Infinite runner
+Theme : forest and land, floating platforms
+
+obstacles: lava, black rocks and monsters 
+
+weapon : small sword
+
+monsters : levitating facing one side
+
+hero : sword in hand animation
+
+
+
